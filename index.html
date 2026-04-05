@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Nations Uprising</title>
+
   <style>
     body {
       margin: 0;
@@ -19,14 +20,22 @@
 
     .sub {
       font-size: 20px;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
+    }
+
+    /* NEW GRID LAYOUT */
+    .container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
     }
 
     .box {
       background: rgba(255,255,255,0.1);
-      margin: 20px auto;
-      padding: 20px;
-      width: 320px;
+      padding: 25px;
       border-radius: 15px;
     }
 
@@ -35,51 +44,65 @@
     }
 
     button {
-      padding: 10px 20px;
+      width: 80%;
+      max-width: 220px;
+      padding: 12px 0;
       border: none;
-      border-radius: 10px;
-      background: #00c3ff;
+      border-radius: 12px;
+      background: linear-gradient(135deg, #00c3ff, #00e0ff);
       color: black;
       font-weight: bold;
+      font-size: 15px;
       cursor: pointer;
-      margin-top: 10px;
+      transition: all 0.2s ease;
     }
 
     button:hover {
-      background: #00a6d6;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0, 195, 255, 0.4);
+    }
+
+    button:active {
+      transform: scale(0.97);
     }
   </style>
 </head>
 
 <body>
+
   <div class="header">🌍 Nations Uprising</div>
   <div class="sub">Build. Conquer. Rise.</div>
 
-  <div class="box">
-    <h2>Server Status</h2>
-    <p>🟢 Active</p>
-    <p><strong>IP:</strong> nationsuprising.mcsh.io</p>
-  </div>
+  <!-- GRID CONTAINER -->
+  <div class="container">
 
-  <div class="box">
-    <h2>Join the Community</h2>
-    <a href="https://discord.gg/xjRsYH5tNs" target="_blank">
-      <button>Join Discord</button>
-    </a>
-  </div>
+    <div class="box">
+      <h2>Server Status</h2>
+      <p>🟢 Active</p>
+      <p><strong>IP:</strong> nationsuprising.mcsh.io</p>
+    </div>
 
-  <div class="box">
-    <h2>Dynmap</h2>
-    <a href="http://191.96.231.14:13429/?worldname=world&mapname=flat&zoom=0&x=1480&y=64&z=-356" target="_blank">
-      <button>Open Dynmap</button>
-    </a>
-  </div>
+    <div class="box">
+      <h2>Join the Community</h2>
+      <a href="https://discord.gg/xjRsYH5tNs" target="_blank">
+        <button>Join Discord</button>
+      </a>
+    </div>
 
-  <div class="box">
-    <h2>Countries</h2>
-    <a href="countries.html">
-      <button>View Countries</button>
-    </a>
+    <div class="box">
+      <h2>Dynmap</h2>
+      <a href="http://191.96.231.14:13429/?worldname=world&mapname=flat&zoom=0&x=1480&y=64&z=-356" target="_blank">
+        <button>Open Dynmap</button>
+      </a>
+    </div>
+
+    <div class="box">
+      <h2>Countries</h2>
+      <a href="countries.html">
+        <button>View Countries</button>
+      </a>
+    </div>
+
   </div>
 
 </body>
