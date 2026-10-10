@@ -1,35 +1,35 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->NAME<!--NAME-->
+# <!--NAME-->Example Republic<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK--><!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION--><!--POPULATION-->
-- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK--> (<!--CURRENCY_ABV--><!--CURRENCY_ABV-->)
+- **Capital: EXAMPLE TOWN** <!--CAPITAL_LINK--><!--CAPITAL_LINK-->
+- **Population: 1000 ** <!--POPULATION--><!--POPULATION-->
+- **Currency: Gold** <!--CURRENCY_LINK--><!--CURRENCY_LINK--> (<!--CURRENCY_ABV--><!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED--><!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK--><!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT--><!--GOVERNMENT-->
+- **Date Founded: 10/10/2026** <!--FOUNDED--><!--FOUNDED-->
+- **Head of State: Example** <!--LEADER_TITLE_LINK--><!--LEADER_TITLE_LINK-->
+- **Governmental System: Democracy** <!--GOVERNMENT--><!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP--><!--GDP-->
-- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK-->
+- **GDP: 500g** <!--GDP--><!--GDP-->
+- **Currency: Gold** <!--CURRENCY_LINK--><!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS--><!--TOWNS-->
+<!--TOWNS--><!--TOWNS--> Example Town
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES--><!--COLONIES--> Example colony
 
 ---
