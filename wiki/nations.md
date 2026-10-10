@@ -1,7 +1,6 @@
 ## Nations
 
 - [Example Republic](example-republic)
-- [Example Kingdom](example-kingdom)
 
 ## Historical nations
 
