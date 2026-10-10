@@ -1,0 +1,35 @@
+<!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
+# <!--NAME-->NAME<!--NAME-->
+
+## Overview
+
+- **Capital:** <!--CAPITAL_LINK--><!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION--><!--POPULATION-->
+- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK--> (<!--CURRENCY_ABV--><!--CURRENCY_ABV-->)
+
+---
+
+## Government
+
+- **Date Founded:** <!--FOUNDED--><!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK--><!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT--><!--GOVERNMENT-->
+
+---
+
+## Economy
+
+- **GDP:** <!--GDP--><!--GDP-->
+- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK-->
+
+---
+
+## Towns
+
+<!--TOWNS--><!--TOWNS-->
+
+## Colonies
+
+<!--COLONIES--><!--COLONIES-->
+
+---
