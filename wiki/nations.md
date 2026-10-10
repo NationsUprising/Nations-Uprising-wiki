@@ -1,7 +1,6 @@
 ## Nations
 
-- [Example Republic](example-republic)
+- EXAMPLE ONLY: [Example Republic](example-republic)
 
 ## Historical nations
-
-- [Former Example Empire](former-example-empire)
+None so far
