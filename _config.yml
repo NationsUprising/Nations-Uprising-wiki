@@ -12,7 +12,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: false
 show_wiki_posts: false
 show_wiki_posts_limit: 5
-logo_url:
+logo_url: "/assets/images/11507ef5615c554fe88fc22c86768501-simple-earth-icon.webp"
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
