@@ -1,5 +1,5 @@
 # (string) Title of your wiki
-title: TDWiki
+title: Nations Uprising Wiki
 demo_ver: 1.0.23
 remote_theme: Drassil/git-wiki-theme@master
 description: ""
@@ -12,7 +12,7 @@ permalink: "/assets/blog/posts/:year/:month/:day/:title:output_ext"
 blog_feature: false
 show_wiki_posts: false
 show_wiki_posts_limit: 5
-logo_url: assets/images/server-icon_large.png
+logo_url:
 google_analytics:
 git_branch: gh-pages
 use_github_wiki: false
