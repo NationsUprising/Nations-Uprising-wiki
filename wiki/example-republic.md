@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital: EXAMPLE TOWN** <!--CAPITAL_LINK--><!--CAPITAL_LINK-->
-- **Population: 1000 ** <!--POPULATION--><!--POPULATION-->
+- **Population: 1000** <!--POPULATION--><!--POPULATION-->
 - **Currency: Gold** <!--CURRENCY_LINK--><!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->g<!--CURRENCY_ABV-->)
 
 ---
